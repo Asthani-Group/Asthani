@@ -10,12 +10,8 @@
     border-radius: 100%;
 }
 
-.row{
-    margin-left: 0;
-}
-
 .member{
-    margin: 0 auto;
+    margin: 0 auto 50px auto;
 }
 
 .number{
